@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 /*
  * B0444239
- * ¶ÀÞ³ÑÔ 
+ * é»ƒç‘‹æ™Ÿ 
 */
 public  class homework_poker {
 
